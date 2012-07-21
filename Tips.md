@@ -6,3 +6,4 @@ Last update: 2012.07.21
 pull = fetch + merge  
 
 ## そもそも fetch って何？
+戻った？
